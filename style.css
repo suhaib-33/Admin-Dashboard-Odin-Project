@@ -192,3 +192,50 @@ button:hover {
 .my-pic img {
     border-radius: 20px;
 }
+
+
+  
+                      /* now middle section starts: */
+
+    .content {
+        display: grid;
+        grid-template-columns: 80% 20%;
+        gap: 10px;
+        padding: 20px;
+        border: 2px solid black;
+    }
+
+
+
+
+    .middle {
+        border: 2px solid black;
+        display: grid;
+        grid-template-columns: 30% 30%;
+        gr
+    }
+
+    .box {
+        border: 2px solid black;
+        padding: 10px;
+        width: 200px;
+        height: 100px;
+        margin: 10px;
+        grid-column-start: 1;
+        grid-column-end: 4;
+    }
+
+     .box-2 {
+        border: 2px solid black;
+        padding: 10px;
+        width: 200px;
+        height: 100px;
+        margin: 10px;
+    }
+
+
+    
+
+    .left-content {
+        border: 2px solid black;
+    }
