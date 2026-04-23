@@ -216,7 +216,6 @@ button:hover {
     }
 
     .box {
-        border: 1px solid black;
         padding: 20px;
         border-radius: 10px;
         display: flex;
@@ -249,7 +248,7 @@ button:hover {
         border-radius: 10px;
         display: flex;
         flex-direction: column;
-        background-color: rgb(221, 221, 221);
+        background-color: rgb(255, 255, 255);
         justify-content: top;
         text-align: center;
     }
@@ -296,7 +295,7 @@ button:hover {
         border-radius: 10px;
         display: flex;
         flex-direction: column;
-        background-color: rgb(221, 221, 221);
+        background-color: rgb(255, 255, 255);
         justify-content: center;
         gap: 1rem;
         }
